@@ -1,0 +1,4 @@
+baseURL = "http://flyusagi.github.io/mylog/"
+languageCode = "ja-jp"
+title = "nikki kamo ?"
+theme = "etch"
