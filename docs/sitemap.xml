@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://flyusagi.github.io/mylog/posts/my-first-post/</loc>
+    <loc>http://flyusagi.github.io/my-log/posts/my-first-post/</loc>
     <lastmod>2021-07-18T07:01:21+09:00</lastmod>
   </url><url>
-    <loc>http://flyusagi.github.io/mylog/</loc>
+    <loc>http://flyusagi.github.io/my-log/</loc>
     <lastmod>2021-07-18T07:01:21+09:00</lastmod>
   </url><url>
-    <loc>http://flyusagi.github.io/mylog/posts/</loc>
+    <loc>http://flyusagi.github.io/my-log/posts/</loc>
     <lastmod>2021-07-18T07:01:21+09:00</lastmod>
   </url><url>
-    <loc>http://flyusagi.github.io/mylog/categories/</loc>
+    <loc>http://flyusagi.github.io/my-log/categories/</loc>
   </url><url>
-    <loc>http://flyusagi.github.io/mylog/tags/</loc>
+    <loc>http://flyusagi.github.io/my-log/tags/</loc>
   </url>
 </urlset>
