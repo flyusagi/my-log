@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://flyusagi.github.io/mylog/posts/my-first-post/</loc>
+    <lastmod>2021-07-18T07:01:21+09:00</lastmod>
+  </url><url>
+    <loc>http://flyusagi.github.io/mylog/</loc>
+    <lastmod>2021-07-18T07:01:21+09:00</lastmod>
+  </url><url>
+    <loc>http://flyusagi.github.io/mylog/posts/</loc>
+    <lastmod>2021-07-18T07:01:21+09:00</lastmod>
+  </url><url>
+    <loc>http://flyusagi.github.io/mylog/categories/</loc>
+  </url><url>
+    <loc>http://flyusagi.github.io/mylog/tags/</loc>
+  </url>
+</urlset>
